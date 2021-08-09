@@ -1,12 +1,12 @@
-
-                                    
-  var myName = '@Sanju-srivatsa'                                                                                                                                                                                                                                                                                                           
+  var myName = '@Sanju-srivatsa'
+  
+  
   let currentlyLearing = new Array("Mongodb", "Express.js", "React", "Node.js");
   
   
-  const contact = {
-  emailID = "srivatsa1289@gmail.com",
-  phoneNo = 9490683856
+  const contact = {                                                                                                                                                   
+  emailID = "srivatsa1289@gmail.com",                                                                                                                                 
+  phoneNo = 9490683856                                                                                                                                                
   };
 
                         
