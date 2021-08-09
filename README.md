@@ -8,13 +8,13 @@
                         
 -💞️  My motivation...               
 if (youCan == fly) {                                                                                                                                                  
-alert('You Flew')                                                                                                                                                                                                                                                                                                                       
+alert('Fly like an Eagle')                                                                                                                                                                                                                                                                                                                       
 } else if (youCan == run) {                                                                                                                                                                                                                                                                                                             
-  alert('You Ran')                                                                                                                                                    
+  alert('Run like a cheetah')                                                                                                                                                    
 }else if (youCan  == walk) {                                                                                                                                          
-  alert('You Walked')                                                                                                                                                 
+  alert('Walk like an ant')                                                                                                                                                 
 } else if (youCan == crawl) {                                                                                                                                         
-  alert('You Crawled')                                                                                                                                                
+  alert('Crawl like a tortoise')                                                                                                                                                
 }else {                                                                                                                                                               
 alert('By all means, keep moving forward')                                                                                                                            
 }                                                                                               
