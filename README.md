@@ -7,9 +7,9 @@
                         
                         
 -💞️  My motivation...               
-if (youCan == fly) {
-alert('you flew')
-} else if (youCan == run) {
+if (youCan == fly) {                                                                                                                                                  
+alert('you flew')                                                                                                                                                     
+} else if (youCan == run) {                                                                                                                                           
   alert('You Ran')
 }else if (youCan  == walk) {
   alert('You Walked')
