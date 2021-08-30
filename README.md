@@ -5,7 +5,7 @@
   
   
   const contact = {                                                                                                                                                   
-  emailID = "srivatsa1289@gmail.com",                                                                                                                                 
+  emailId = "srivatsa1289@gmail.com",                                                                                                                                 
   phoneNo = 9490683856                                                                                                                                                
   };
 
