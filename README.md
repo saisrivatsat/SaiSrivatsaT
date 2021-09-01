@@ -6,7 +6,9 @@
   
   const contact = {                                                                                                                                                   
   emailId = "srivatsa1289@gmail.com",                                                                                                                                 
-  phoneNo = 9490683856                                                                                                                                                
+  linkedIn = "https://www.linkedin.com/in/sai-srivatsa-thangallapelly-54a55a183/",
+  
+  codepen = "https://codepen.io/sanju_srivatsa"
   };
 
                         
