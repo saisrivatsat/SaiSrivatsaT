@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Sanju-srivatsa&label=Profile%20views&color=129e00&style=plastic" alt="Sanju-srivatsa" /> </p>
-<p align="right">
+<h2 align="left"> Hi, I'm Sanju Srivatsa!<p align="right">
 <a href="https://linkedin.com/in/saisrivatsat/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="saisrivatsat" height="30" width="30" /></a>
 <a href="srivatsa1289@gmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" alt="srivatsa1289@gmail.com" height="35" width="35" /></a>
 <a href="https://codepen.io/sanju_srivatsa" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="sanju_srivatsa" height="30" width="30" /></a>
-</p>
-<h2 align="left"> Hi, I'm Sanju Srivatsa!</h2>
+</p></h2>
+
 <p align="left"><em>Data Analyst at <a href="https://www.globallogic.com/in/">GlobalLogic- A Hitachi Group Company</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
