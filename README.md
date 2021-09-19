@@ -1,3 +1,14 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Sanju-srivatsa&label=Profile%20views&color=129e00&style=plastic" alt="Sanju-srivatsa" /> </p>
+<p align="right">
+<a href="https://linkedin.com/in/saisrivatsat/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="saisrivatsat" height="30" width="30" /></a>
+<a href="srivatsa1289@gmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" alt="srivatsa1289@gmail.com" height="35" width="35" /></a>
+<a href="https://codepen.io/sanju_srivatsa" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="sanju_srivatsa" height="30" width="30" /></a>
+</p>
+<h2 align="left"> Hi, I'm Sanju Srivatsa!</h2>
+<p align="left"><em>Data Analyst at <a href="https://www.globallogic.com/in/">GlobalLogic- A Hitachi Group Company</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```js
   var myName = '@Sanju-srivatsa'
   
@@ -47,4 +58,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="50"/> </a> <b>   etc... </b> </p>
 
 [![Sanju-srivatsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanju-srivatsa)](https://github.com/Sanju-srivatsa/github-readme-stats)
+<img align="right" alt="Coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-srivatsa&layout=compact&langs_count=15)](https://github.com/Sanju-srivatsa/github-readme-stats)
+
+
+
