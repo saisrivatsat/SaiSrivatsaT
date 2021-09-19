@@ -58,7 +58,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="50"/> </a> <b>   etc... </b> </p>
 
 [![Sanju-srivatsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanju-srivatsa)](https://github.com/Sanju-srivatsa/github-readme-stats)
-<img align="right" alt="Coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-srivatsa&layout=compact&langs_count=15)](https://github.com/Sanju-srivatsa/github-readme-stats)
 
 
