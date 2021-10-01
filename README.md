@@ -59,6 +59,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Sanju-srivatsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanju-srivatsa)](https://github.com/Sanju-srivatsa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-srivatsa&layout=compact&langs_count=15)](https://github.com/Sanju-srivatsa/github-readme-stats)
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanju-srivatsa)
 
