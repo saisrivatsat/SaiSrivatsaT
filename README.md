@@ -5,7 +5,7 @@
 <a href="https://codepen.io/sanju_srivatsa" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="sanju_srivatsa" height="30" width="30" /></a>
 </p></h2>
 
-<p align="left"><em>Data Analyst at <a href="https://www.globallogic.com/in/">GlobalLogic- A Hitachi Group Company</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align="left"><em>Student at <a href="https://www.maryville.edu/">Maryville University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
