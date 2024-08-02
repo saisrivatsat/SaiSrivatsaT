@@ -15,7 +15,7 @@
   let currentlyLearing = new Array("Mongodb", "Express.js", "React", "Node.js");
   
   const contact = {
-  emailId = "srivatsa1289@gmail.com",
+  emailId = "saisrivatsat@gmail.com",
   linkedIn = "https://www.linkedin.com/in/saisrivatsat/",
   codepen = "https://codepen.io/sanju_srivatsa"
   };
