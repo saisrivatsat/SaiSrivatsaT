@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Sanju-srivatsa&label=Profile%20views&color=129e00&style=plastic" alt="Sanju-srivatsa" /> </p>
-<h2 align="left"> Hi, I'm Sanju Srivatsa!<p align="right">
+<h2 align="left"> Hi, I'm Sai Srivatsa Thangallapelly!<p align="right">
 <a href="https://linkedin.com/in/saisrivatsat/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="saisrivatsat" height="30" width="30" /></a>
 <a href="saisrivatsat@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="saisrivatsat@gmail.com" height="35" width="35" /></a>
 <a href="https://codepen.io/sanju_srivatsa" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="sanju_srivatsa" height="30" width="30" /></a>
