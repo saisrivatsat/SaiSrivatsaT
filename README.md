@@ -5,35 +5,52 @@
 <a href="https://codepen.io/sanju_srivatsa" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="sanju_srivatsa" height="30" width="30" /></a>
 </p></h2>
 
-<p align="left"><em>Student at <a href="https://www.maryville.edu/">Maryville University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
+<p align="left">
+  <em>
+    Data Specialist at <a href="https://wingsofhope.ngo/">Wings of Hope</a> and Graduate Assistant at <a href="https://www.maryville.edu/">Maryville University</a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
+</p>
+<p align="left">
+  <em>
+    Represented as an International Student Delegate at 2023 Missouri state capitol visit
+  </em>
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```js
-  var myName = '@Sanju-srivatsa'
-  
-  let currentlyLearing = new Array("Mongodb", "Express.js", "React", "Node.js");
-  
-  const contact = {
-  emailId = "saisrivatsat@gmail.com",
-  linkedIn = "https://www.linkedin.com/in/saisrivatsat/",
-  codepen = "https://codepen.io/sanju_srivatsa"
-  };
+var myName = '@Sanju-srivatsa';
 
-                        
-function  myMotivation(youCan){               
-  if (youCan == fly) {
+let currentSkills = new Array("Python", "R", "SQL", "Machine Learning", "Data Visualization", "Statistics");
+
+const allSkills = ["HTML5", "CSS3", "Bootstrap", "JavaScript", "MongoDB", "Express.js", "React", "Node.js", "Git", "jQuery", "Sass", "Postman", "Netlify", "npm", "Yarn", "Linux", "Python", "R", "SQL", "Machine Learning", "Data Visualization", "Statistics"];
+
+const contact = {
+  emailId: "saisrivatsat@gmail.com",
+  linkedIn: "https://www.linkedin.com/in/saisrivatsat/",
+  codepen: "https://codepen.io/sanju_srivatsa"
+};
+
+function listSkills() {
+  console.log("All Skills:", allSkills.join(", "));
+  console.log("Currently Learning:", currentlyLearning.join(", "));
+}
+
+function myMotivation(youCan) {
+  if (youCan == "fly") {
     alert('Fly like an Eagle');
-   } else if (youCan == run) {
+  } else if (youCan == "run") {
     alert('Run like a cheetah');
-   } else if (youCan  == walk) {
+  } else if (youCan == "walk") {
     alert('Walk like an ant');
-   } else if (youCan == crawl) {
+  } else if (youCan == "crawl") {
     alert('Crawl like a tortoise');
-   } else {
-    alert('By all means, keep moving forward') ;
-        }
-  }     
+  } else {
+    alert('By all means, keep moving forward');
+  }
+}
+    
 ```
 <!---
 Sanju-srivatsa/Sanju-srivatsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
