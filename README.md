@@ -2,7 +2,7 @@
 <h2 align="left"> Hi, I'm Sai Srivatsa Thangallapelly! <p align="right">
 <a href="https://linkedin.com/in/saisrivatsat/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="saisrivatsat" height="30" width="30" /></a>
 <a href="mailto:saisrivatsat@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="saisrivatsat@gmail.com" height="35" width="35" /></a>
-<a href="https://codepen.io/sanju_srivatsa" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="sanju_srivatsa" height="30" width="30" /></a>
+<a href="https://codepen.io/saisrivatsat" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZRsGfqQObV3wIKmJ5ILpkmXBllyyoX873FeUl-vnwRNIa0AXEzI8sEaU-LONf_8ctnw&usqp=CAU" alt="codepen" height="30" width="30" /></a>
 <a href="https://saisrivatsat.netlify.app/" target="blank"><img align="center" src="https://saisrivatsat.netlify.app/assets/saisrivatsaLogo-fX-NkWan.png" alt="Portfolio" height="40" width="40" /></a>
 </p></h2>
 
@@ -30,7 +30,7 @@ const CoreSkills = ["Python", "R", "SQL", "Machine Learning", "Data Visualizatio
 const contact = {
   emailId: "saisrivatsat@gmail.com",
   linkedIn: "https://www.linkedin.com/in/saisrivatsat/",
-  codepen: "https://codepen.io/sanju_srivatsa",
+  codepen: "https://codepen.io/saisrivatsat",
   portfolio: "https://saisrivatsat.netlify.app/"
 };
 
