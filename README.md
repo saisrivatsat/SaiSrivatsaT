@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fhd-python-logo-symbol-transparent-png-in-2024--1035053926853276255%2F&psig=AOvVaw0FYgq7CVksw0k9XOpV4tuk&ust=1736567294906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDZ-Lef6ooDFQAAAAAdAAAAABAJ" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/> </a>
