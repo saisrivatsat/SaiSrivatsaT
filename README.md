@@ -7,12 +7,29 @@
 </p></h2>
 
 
+### About me
+I’m a Data Engineer specializing in cloud ETL, real-time streaming, and analytics platforms. I build reliable pipelines and analytics layers across AWS, GCP, and Azure using Python, SQL, and Spark. I’ve supported Fortune 500 initiatives and currently contribute to data warehousing and reporting automation at CVS Health. I keep things simple, measurable, and production-ready.
+
+- **Interests:** scalable ETL, Databricks/Spark performance, Snowflake optimization, event streaming (Kafka), and metric governance.
+
+**Education:** M.S. in Data Science at Maryville Univeristy of Saint Louis (GPA 4.0).
+
+---
+
+### What I work with
+**Data & Cloud:** Python, SQL, PySpark, Apache Spark, Databricks, Snowflake, BigQuery, Azure Synapse  
+**Pipelines & Orchestration:** Airflow, dbt, AWS Glue, Azure Data Factory, Terraform  
+**Streaming & Messaging:** Kafka, Kinesis  
+**Storage & Infra:** AWS (S3, Lambda), GCP (GCS), Azure (ADLS), Docker, Linux  
+**Analytics & Viz:** Power BI, Tableau, Pandas, Matplotlib/Plotly
+
 <p align="left">
   <em>
-    Data Specialist at <a href="https://wingsofhope.ngo/">Wings of Hope</a> and Graduate Assistant at <a href="https://www.maryville.edu/">Maryville University</a>
+    Data Engineer at <a href="https://www.cvshealth.com/">CVS Health</a> (Dallas, TX) • Former Data Specialist at <a href="https://wingsofhope.ngo/">Wings of Hope</a> • Former Graduate Assistant at <a href="https://www.maryville.edu/">Maryville University of Saint Louis</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
+
 <p align="left">
   <em>
     Represented as an International Student Delegate at 2023 Missouri state capitol visit
@@ -23,9 +40,12 @@
 ```js
 var myName = '@saisrivatsat';
 
-let currentSkills = new Array("Python", "R", "SQL", "Machine Learning", "Data Visualization", "Statistics");
+let currentSkills = new Array("Python", "SQL", "PySpark", "Apache Spark", "Databricks", "Snowflake",
+                    "AWS (S3, Glue, Lambda)", "Airflow", "dbt", "Kafka", "Power BI", "Tableau");
 
-const CoreSkills = ["Python", "R", "SQL", "Machine Learning", "Data Visualization", "AWS", "HTML5", "CSS3", "Bootstrap", "JavaScript", "MongoDB", "Express.js", "React", "Node.js", "Git", "jQuery", "Sass", "Postman", "Netlify", "npm", "Yarn", "Linux",  "Statistics"];
+const CoreSkills = ["Python", "SQL", "PySpark", "Apache Spark", "Databricks", "Snowflake", "BigQuery",
+                    "AWS", "GCP", "Azure", "Airflow", "dbt", "Kafka", "Terraform", "Docker", "Pandas",
+                    "NumPy", "scikit-learn", "Power BI", "Tableau", "Git", "Linux", "Jupyter", "PL/SQL"];
 
 const contact = {
   emailId: "saisrivatsat@gmail.com",
