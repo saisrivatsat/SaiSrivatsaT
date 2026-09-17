@@ -12,7 +12,7 @@ I’m a Data Engineer specializing in cloud ETL, real-time streaming, and analyt
 
 - **Interests:** scalable ETL, Databricks/Spark performance, Snowflake optimization, event streaming (Kafka), and metric governance.
 
-**Education:** M.S. in Data Science at Maryville Univeristy of Saint Louis (GPA 4.0).
+**Education:** M.S. in Data Science at Maryville University of Saint Louis (GPA 4.0).
 
 ---
 
